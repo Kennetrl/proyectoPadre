@@ -1,0 +1,73 @@
+:root{
+    --colorWhite: #ffffff;
+    --colorBlack: #000000;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background: url(./escalerasImagenes/13Escalera.jpeg);
+}
+.sectionHeader1{
+    padding-top: 2rem;
+    text-align: center;
+}
+.sectionHeader1 a{
+    padding: 2rem;
+    text-decoration: none;
+    color: var(--colorBlack);
+}
+.sectionHeader1 a:hover{
+    text-decoration: none;
+    color: var(--colorWhite);
+}
+.sectionHeader2{
+    margin-top: 30vh;
+    text-align: center;
+}
+.sectionHeader2 h1{
+    font-size: 4rem;
+}
+
+.sectionMain1{
+    text-align: center;
+}
+.parent1 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    .parent1 img{
+        width: 15rem;
+        height: 8rem;
+        border-radius: 1rem;
+    }    
+    .parent1 .div1 { grid-area: 1 / 1 / 2 / 2; display: flex; flex-direction: column;}
+    .parent1 .div2 { grid-area: 1 / 2 / 2 / 3; display: flex; flex-direction: column;}
+    .parent1 .div3 { grid-area: 1 / 3 / 2 / 4; display: flex; flex-direction: column;}
+
+/*3 lineas*/
+
+  /*MediaQueries*/
+@media (max-width: 685px){
+    .sectionHeader2{
+        margin-top: 25vh;
+    }
+    .sectionHeader2 h1{
+        font-size: 2rem;
+    }
+    .sectionHeader2 h2{
+        font-size: 1rem;
+    }
+}
+
+/*Borrar*/
+img{
+    height: 5rem;
+}
