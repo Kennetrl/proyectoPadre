@@ -47,17 +47,49 @@ header{
         width: 15rem;
         height: 8rem;
         border-radius: 1rem;
+        object-fit: cover;
     }    
-    .parent1 .div1 { grid-area: 1 / 1 / 2 / 2; display: flex; flex-direction: column;}
-    .parent1 .div2 { grid-area: 1 / 2 / 2 / 3; display: flex; flex-direction: column;}
-    .parent1 .div3 { grid-area: 1 / 3 / 2 / 4; display: flex; flex-direction: column;}
+    .parent1 .div1 { grid-area: 1 / 1 / 2 / 2;}
+    .parent1 .div2 { grid-area: 1 / 2 / 2 / 3;}
+    .parent1 .div3 { grid-area: 1 / 3 / 2 / 4;}
+    .parent1 .div1,
+    .parent1 .div2,
+    .parent1 .div3{
+        display: flex; flex-direction: column; align-items: center;
+    }
 
-/*3 lineas*/
+.sectionMain2{
+    background: var(--colorBlack);
+    color: white;
+}
+
+.sectionMain4{
+    background: var(--colorBlack);
+    color: white;
+}
 
   /*MediaQueries*/
-@media (max-width: 685px){
+@media (max-width: 740px){
     .sectionHeader2{
         margin-top: 25vh;
+    }
+    .sectionHeader2 h1{
+        font-size: 2.5rem;
+    }
+    .sectionHeader2 h2{
+        font-size: 1.5rem;
+    }
+    .parent1 {
+        display: flex;
+        flex-direction: column;
+    }
+    .sectionHeader1 a{
+        display: none;
+    }
+}
+@media (max-width: 400px){
+    .sectionHeader2{
+        margin-top: 20vh;
     }
     .sectionHeader2 h1{
         font-size: 2rem;
