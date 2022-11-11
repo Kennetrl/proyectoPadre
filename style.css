@@ -25,6 +25,12 @@ header{
     text-decoration: none;
     color: var(--colorWhite);
 }
+.lineas3{
+    height: 2.5rem;
+    position: absolute;
+    right: 2rem;
+    display: none;
+}
 .sectionHeader2{
     margin-top: 30vh;
     text-align: center;
@@ -85,6 +91,9 @@ header{
     }
     .sectionHeader1 a{
         display: none;
+    }
+    .lineas3{
+        display: block;
     }
 }
 @media (max-width: 400px){
