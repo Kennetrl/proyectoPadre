@@ -1,6 +1,7 @@
 :root{
     --colorWhite: #ffffff;
     --colorBlack: #000000;
+    --colorBluePurple: #8c52ff;
 }
 body{
     margin: 0;
@@ -39,6 +40,20 @@ header{
     font-size: 4rem;
 }
 
+.imgSections{
+    width: 18rem;
+    height: 28rem;
+    border-radius: 2rem;
+    object-fit: cover;
+}
+.saberM{
+    border-radius: 2rem;
+    padding: 1rem 2rem 1rem 2rem;
+    background: var(--colorBluePurple);
+    border: none;
+    margin: 2rem;
+}
+
 .sectionMain1{
     text-align: center;
 }
@@ -64,15 +79,21 @@ header{
         display: flex; flex-direction: column; align-items: center;
     }
 
-.sectionMain2{
-    background: var(--colorBlack);
-    color: white;
-}
-
+.sectionMain2,
 .sectionMain4{
     background: var(--colorBlack);
     color: white;
 }
+.sectionMain2,
+.sectionMain4,
+.sectionMain3,
+.sectionMain5{
+    padding: 3rem 0 3rem 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
 
   /*MediaQueries*/
 @media (max-width: 740px){
@@ -95,6 +116,12 @@ header{
     .lineas3{
         display: block;
     }
+    .sectionMain2,
+    .sectionMain4,
+    .sectionMain3,
+    .sectionMain5{
+    flex-direction: column;
+}
 }
 @media (max-width: 400px){
     .sectionHeader2{
