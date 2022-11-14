@@ -2,6 +2,8 @@
     --colorWhite: #ffffff;
     --colorBlack: #000000;
     --colorBluePurple: #8c52ff;
+    --colorBlueGreenW: #00c826;
+
 }
 body{
     margin: 0;
@@ -93,6 +95,33 @@ header{
     justify-content: space-evenly;
     align-items: center;
 }
+footer{
+    padding: 2rem 0 2rem;
+    color: var(--colorWhite);
+    background-color: var(--colorBlack);
+    text-align: center;
+}
+.whatsappButton{
+    background-color: var(--colorBlueGreenW);
+    padding: 1rem 4rem 1rem 4rem;
+    border-radius: 2rem;
+    font-weight: bold;
+    color: var(--colorWhite);
+}
+.sectionFooter2{
+    display: flex;
+    justify-content: space-around;
+}
+.correoElectronico{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.redesSociales{
+    margin-top: 2rem;
+    margin-left: 1rem;
+
+}
+
 
 
   /*MediaQueries*/
@@ -135,7 +164,3 @@ header{
     }
 }
 
-/*Borrar*/
-img{
-    height: 5rem;
-}
