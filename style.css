@@ -16,16 +16,26 @@ header{
     height: 100vh;
     background: url(./escalerasImagenes/13Escalera.jpeg);
 }
+.domLineas{
+    padding-top: 2rem;
+    position: absolute;
+    background-color: rgb(203, 203, 203);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    font-size: 3rem;
+    display: none;
+}
 .sectionHeader1{
     padding-top: 2rem;
     text-align: center;
 }
-.sectionHeader1 a{
+a{
     padding: 2rem;
     text-decoration: none;
     color: var(--colorBlack);
 }
-.sectionHeader1 a:hover{
+a:hover{
     text-decoration: none;
     color: #f0f0f0;
 }
@@ -191,7 +201,15 @@ footer{
     .sectionMain3,
     .sectionMain5{
     flex-direction: column;
-}
+    }
+    .domLineas{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+    }
+    .inactive{
+        display: none;
+    }
 }
 @media (max-width: 400px){
     .sectionHeader2{
