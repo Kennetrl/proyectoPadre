@@ -99,6 +99,7 @@ a:hover{
 
 .sectionMain1{
     text-align: center;
+    padding: 3rem 0 3rem;
 }
 .parent1 {
     display: grid;
@@ -172,6 +173,12 @@ footer{
 .redesSociales{
     margin-top: 2rem;
     margin-left: 1rem;
+}
+.redesSociales a{
+    color: var(--colorWhite);
+}
+.redesSociales a:hover{
+    color: gray;
 }
 
 

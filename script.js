@@ -6,3 +6,4 @@ menuLineas.addEventListener('click', toggleMenu);
 function toggleMenu(){
     domLineas.classList.toggle('inactive');
 }
+
