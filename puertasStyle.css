@@ -1,0 +1,162 @@
+:root{
+    --colorWhite: #ffffff;
+    --colorBlack: #000000;
+    --colorBluePurple: #8c52ff;
+    --colorBlueGreenW: #00c826;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 120%;
+}
+header{
+    width: 100%;
+    background: #000000;
+    padding-bottom: 3rem;
+}
+.sectionHeader1{
+    padding-top: 2rem;
+    text-align: center;
+}
+.domLineas{
+    padding-top: 2rem;
+    position: absolute;
+    background-color: rgb(203, 203, 203);
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    font-size: 3rem;
+    display: none;
+}
+a{
+    padding: 2rem;
+    text-decoration: none;
+    color: var(--colorWhite);
+}
+a:hover{
+    text-decoration: none;
+    color: gray;
+}
+.lineas3{
+    height: 2.5rem;
+    position: absolute;
+    right: 2rem;
+    top: 1.5rem;
+    display: none;
+}
+/*Main*/
+.sectionMain1{
+    text-align: center;
+    font-size: 2rem;
+}
+.sectionMain2{
+    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 24rem);
+    gap: 2.6rem;
+    place-content: center;
+}
+.unidad{
+    text-align: center;
+}
+.ordenar{
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: -2rem;
+    justify-content: space-around;
+    margin-left: 0;
+}
+
+.imagenesPuertas{
+    width: 18rem;
+    height: 20rem;
+    object-fit: cover;
+    border-radius: 2rem;
+    border: 0.3rem solid var(--colorBlack);
+    margin: 1rem 2rem 1rem 2rem;
+}
+.whatsappIcon{
+    height: 3rem;
+    margin-left: 2rem;
+}
+
+footer{
+    padding: 2rem 0 2rem;
+    color: var(--colorWhite);
+    background-color: var(--colorBlack);
+    text-align: center;
+}
+
+/*Botón de WhatsApp*/
+.whatsappButton{
+    background-color: var(--colorBlueGreenW);
+    padding: 1rem 3rem 1rem 3rem;
+    border-radius: 2rem;
+    font-weight: bold;
+    color: var(--colorWhite);
+    display:inline-flex;
+    cursor: pointer;
+}
+.iconWhatsapp{
+    height: 2rem;
+}
+.textoWhatsapp{
+    padding: 0 1rem 0 1rem;
+}
+
+.sectionFooter2{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+}
+.correoElectronico{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.redesSociales{
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+  /*MediaQueries*/
+@media (max-width: 800px){
+    .sectionHeader1 a{
+        display: none;
+    }
+    .lineas3{
+        display: block;
+    }
+    .domLineas{
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+    }
+    .inactive{
+        display: none;
+    }
+}
+@media (max-width: 400px){
+    .sectionHeader2{
+        margin-top: 20vh;
+    }
+    .sectionHeader2 h1{
+        font-size: 2rem;
+    }
+    .sectionHeader2 h2{
+        font-size: 1rem;
+    }
+
+
+
+    .sectionFooter2{
+        display: flex;
+        flex-direction: column;
+        margin: 2rem 0 2rem;
+    }
+}
+
