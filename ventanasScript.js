@@ -4,9 +4,9 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'Puerta1',
+    name: 'Escalera 2',
     price: 120,
-    image: './puertasImagenes/10puerta.jpeg',
+    image: './escalerasImagenes/12Escalera.jpeg',
 });
 
 //Función para mostrar las lista
@@ -37,7 +37,7 @@ function renderProducts(arr){
         const productLink = document.createElement('a');
 
         productImgCart.setAttribute('src', './icons/whatsapp.png');
-        productLink.setAttribute('href', 'https://api.whatsapp.com/send?phone=+593983252717&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20puertas%20y%20quer%C3%ADa%20saber%20sobre...');
+        productLink.setAttribute('href', 'https://api.whatsapp.com/send?phone=+593983252717&text=Hola,%20vengo%20de%20la%20p%C3%A1gina%20web%20HIERRO,%20ACERO%20Y%20ALUMINIO%20EC,%20en%20la%20secci%C3%B3n%20de%20Ventanas-Cubreventas%20y%20quer%C3%ADa%20saber%20sobre...');
         productLink.setAttribute('target', '_blank');
 
     
