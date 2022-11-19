@@ -15,7 +15,7 @@ body{
 header{
     width: 100%;
     height: 100vh;
-    background-image: url(./escalerasImagenes/21Escalera.jpeg);
+    background-image: url(./escalerasImagenes/11Pasamanos.jpeg);
     background-size: cover;
 }
 img{
@@ -201,7 +201,6 @@ footer{
 .redesSociales a:hover{
     color: gray;
 }
-
 
 
   /*MediaQueries*/

@@ -6,7 +6,7 @@ const productList = [];
 productList.push({
     name: 'Escalera 2',
     price: 120,
-    image: './escalerasImagenes/12Escalera.jpeg',
+    image: './puertasImagenes/39puerta.jpeg',
 });
 
 //Función para mostrar las lista
