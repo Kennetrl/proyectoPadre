@@ -10,11 +10,19 @@ body{
     padding: 0;
     box-sizing: border-box;
     font-size: 120%;
+    transition: 500ms;
 }
 header{
     width: 100%;
     background: #000000;
     padding-bottom: 3rem;
+    height: 40px;
+}
+img{
+    transition: 300ms;
+}
+img:hover{
+    transform: scale(1.15);
 }
 .sectionHeader1{
     padding-top: 2rem;
@@ -34,10 +42,12 @@ a{
     padding: 2rem;
     text-decoration: none;
     color: var(--colorWhite);
+    transition: 300ms;
 }
 a:hover{
     text-decoration: none;
     color: gray;
+    font-size: 1.5rem;
 }
 .lineas3{
     height: 2.5rem;
@@ -52,38 +62,56 @@ a:hover{
     font-size: 2rem;
 }
 .sectionMain2{
-    display: flex;
+    margin: 1rem;
+    padding-left: 2rem;
+}
+/*Cards*/
+.cards-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 24rem);
-    gap: 2.6rem;
-    place-content: center;
-}
-.unidad{
-    text-align: center;
-}
-.ordenar{
-    margin-left: 30%;
-    display: flex;
-    align-items: center;
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-top: -2rem;
-    justify-content: space-around;
-    margin-left: 0;
-}
-
-.imagenesPuertas{
-    width: 18rem;
-    height: 20rem;
+    grid-template-columns: repeat(auto-fill, 21rem);
+    gap: 26px;
+    margin-top: 20px;
+  }
+  .product-card {
+    width: 240px;
+  }
+  .product-card img {
+    width: 240px;
+    height: 240px;
+    border-radius: 20px;
     object-fit: cover;
-    border-radius: 2rem;
-    border: 0.3rem solid var(--colorBlack);
-    margin: 1rem 2rem 1rem 2rem;
-}
-.whatsappIcon{
-    height: 3rem;
-    margin-left: 2rem;
-}
+    transition: 300ms;
+    margin-bottom: 1rem;
+  }
+  .product-info {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .product-info figure {
+    margin: 0;
+  }
+  .product-info figure img {
+    width: 35px;
+    height: 35px;
+  }
+  .product-info figure img:hover {
+    transform: scale(1.15);
+
+  }
+  .product-info div p:nth-child(1) {
+    font-weight: bold;
+    font-size: var(--md);
+    margin-top: 0;
+    margin-bottom: 4px;
+  }
+  .product-info div p:nth-child(2) {
+    font-size: var(--sm);
+    margin-top: 0;
+    margin-bottom: 0;
+    color: var(--very-light-pink);
+  }
+
 
 footer{
     padding: 2rem 0 2rem;
