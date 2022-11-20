@@ -129,6 +129,10 @@ footer{
     color: var(--colorWhite);
     display:inline-flex;
     cursor: pointer;
+    transition: 300ms;
+}
+.whatsappButton:hover{
+    transform: scale(1.13);
 }
 .iconWhatsapp{
     height: 2rem;
@@ -150,6 +154,7 @@ footer{
     margin-top: 2rem;
     margin-left: 1rem;
 }
+
 
   /*MediaQueries*/
 @media (max-width: 800px){

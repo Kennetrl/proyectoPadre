@@ -4,10 +4,56 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'Escalera 2',
+    name: 'Piso Flotante 1',
     price: 120,
-    image: './pisoFlotanteImagenes/1PisoFlotante.jpeg',
+    image: './otrosImagenes/1PisoFlotante.jpeg',
 });
+productList.push({
+    name: 'Piso Flotante 2',
+    price: 120,
+    image: './otrosImagenes/1otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 3',
+    price: 120,
+    image: './otrosImagenes/2otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 4',
+    price: 120,
+    image: './otrosImagenes/3otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 5',
+    price: 120,
+    image: './otrosImagenes/4otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 6',
+    price: 120,
+    image: './otrosImagenes/5otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 7',
+    price: 120,
+    image: './otrosImagenes/6otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 8',
+    price: 120,
+    image: './otrosImagenes/7otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 9',
+    price: 120,
+    image: './otrosImagenes/8otros.jpeg',
+});
+productList.push({
+    name: 'Piso Flotante 10',
+    price: 120,
+    image: './otrosImagenes/9otros.jpeg',
+});
+
 
 //Función para mostrar las lista
 function renderProducts(arr){

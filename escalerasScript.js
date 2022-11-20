@@ -4,117 +4,117 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'Escalera 1',
+    name: 'N1-Escalera',
     price: 120,
     image: './escalerasImagenes/1Escalera.jpeg',
 });
 productList.push({
-    name: 'Escalera 2',
+    name: 'N2-Escalera',
     price: 120,
     image: './escalerasImagenes/2Escalera.jpeg',
 });
 productList.push({
-    name: 'Escalera 3',
+    name: 'N3-Escalera',
     price: 120,
     image: './escalerasImagenes/3Escalera.jpeg',
 });
 productList.push({
-    name: 'Escalera 4',
+    name: 'N4-Escalera',
     price: 120,
     image: './escalerasImagenes/4Escalera.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 1',
+    name: 'N1-Pasamanos',
     price: 120,
     image: './escalerasImagenes/1Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 2',
+    name: 'N2-Pasamanos',
     price: 120,
     image: './escalerasImagenes/2Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 3',
+    name: 'N3-Pasamanos',
     price: 120,
     image: './escalerasImagenes/3Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 4',
+    name: 'N4-Pasamanos',
     price: 120,
     image: './escalerasImagenes/4Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 5',
+    name: 'N5-Pasamanos',
     price: 120,
     image: './escalerasImagenes/5Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 6',
+    name: 'N6-Pasamanos',
     price: 120,
     image: './escalerasImagenes/6Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 7',
+    name: 'N7-Pasamanos',
     price: 120,
     image: './escalerasImagenes/7Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 8',
+    name: 'N8-Pasamanos',
     price: 120,
     image: './escalerasImagenes/8Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 9',
+    name: 'N9-Pasamanos',
     price: 120,
     image: './escalerasImagenes/9Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 10',
+    name: 'N1-Pasamanos0',
     price: 120,
     image: './escalerasImagenes/10Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 11',
+    name: 'N1-Pasamanos1',
     price: 120,
     image: './escalerasImagenes/11Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 12',
+    name: 'N1-Pasamanos2',
     price: 120,
     image: './escalerasImagenes/12Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 13',
+    name: 'N1-Pasamanos3',
     price: 120,
     image: './escalerasImagenes/13Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 14',
+    name: 'N1-Pasamanos4',
     price: 120,
     image: './escalerasImagenes/14Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 15',
+    name: 'N1-Pasamanos5',
     price: 120,
     image: './escalerasImagenes/15Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 16',
+    name: 'N1-Pasamanos6',
     price: 120,
     image: './escalerasImagenes/16Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 17',
+    name: 'N1-Pasamanos7',
     price: 120,
     image: './escalerasImagenes/17Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 18',
+    name: 'N1-Pasamanos8',
     price: 120,
     image: './escalerasImagenes/18Pasamanos.jpeg',
 });
 productList.push({
-    name: 'Pasamanos 19',
+    name: 'N1-Pasamanos9',
     price: 120,
     image: './escalerasImagenes/19Pasamanos.jpeg',
 });

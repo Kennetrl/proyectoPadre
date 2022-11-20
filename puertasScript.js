@@ -4,62 +4,62 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'Puerta N1',
+    name: 'N1-Puerta',
     price: 120,
     image: './puertasImagenes/1puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N2',
+    name: 'N2-Puerta',
     price: 120,
     image: './puertasImagenes/2puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N3',
+    name: 'N3-Puerta',
     price: 120,
     image: './puertasImagenes/3puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N4',
+    name: 'N4-Puerta',
     price: 120,
     image: './puertasImagenes/4puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N5',
+    name: 'N5-Puerta',
     price: 120,
     image: './puertasImagenes/5puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N6',
+    name: 'N6-Puerta',
     price: 120,
     image: './puertasImagenes/6puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N7',
+    name: 'N7-Puerta',
     price: 120,
     image: './puertasImagenes/7puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N8',
+    name: 'N8-Puerta',
     price: 120,
     image: './puertasImagenes/8puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N9',
+    name: 'N9-Puerta',
     price: 120,
     image: './puertasImagenes/9puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N10',
+    name: 'N10-Puerta',
     price: 120,
     image: './puertasImagenes/10puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N11',
+    name: 'N11-Puerta',
     price: 120,
     image: './puertasImagenes/11puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N12',
+    name: 'N12-Puerta',
     price: 120,
     image: './puertasImagenes/12puerta.jpeg',
 });
@@ -69,7 +69,7 @@ productList.push({
     image: './puertasImagenes/13puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N14',
+    name: 'N14-Puerta',
     price: 120,
     image: './puertasImagenes/14puerta.jpeg',
 });
@@ -89,132 +89,132 @@ productList.push({
     image: './puertasImagenes/16puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N17',
+    name: 'N17-Puerta',
     price: 120,
     image: './puertasImagenes/17puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N18',
+    name: 'N18-Puerta',
     price: 120,
     image: './puertasImagenes/18puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N19',
+    name: 'N19-Puerta',
     price: 120,
     image: './puertasImagenes/19puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N20',
+    name: 'N20-Puerta',
     price: 120,
     image: './puertasImagenes/20puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N21',
+    name: 'N21-Puerta',
     price: 120,
     image: './puertasImagenes/21puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N22',
+    name: 'N22-Puerta',
     price: 120,
     image: './puertasImagenes/22puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N23',
+    name: 'N23-Puerta',
     price: 120,
     image: './puertasImagenes/23puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N24',
+    name: 'N24-Puerta',
     price: 120,
     image: './puertasImagenes/24puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N25',
+    name: 'N25-Puerta',
     price: 120,
     image: './puertasImagenes/25puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N26',
+    name: 'N26-Puerta',
     price: 120,
     image: './puertasImagenes/26puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N27',
+    name: 'N27-Puerta',
     price: 120,
     image: './puertasImagenes/27puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N28',
+    name: 'N28-Puerta',
     price: 120,
     image: './puertasImagenes/28puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N29',
+    name: 'N29-Puerta',
     price: 120,
     image: './puertasImagenes/29puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N30',
+    name: 'N30-Puerta',
     price: 120,
     image: './puertasImagenes/30puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N31',
+    name: 'N31-Puerta',
     price: 120,
     image: './puertasImagenes/31puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N32',
+    name: 'N32-Puerta',
     price: 120,
     image: './puertasImagenes/32puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N33',
+    name: 'N33-Puerta',
     price: 120,
     image: './puertasImagenes/33puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N34',
+    name: 'N34-Puerta',
     price: 120,
     image: './puertasImagenes/34puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N35',
+    name: 'N35-Puerta',
     price: 120,
     image: './puertasImagenes/35puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N36',
+    name: 'N36-Puerta',
     price: 120,
     image: './puertasImagenes/36puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N37',
+    name: 'N37-Puerta',
     price: 120,
     image: './puertasImagenes/37puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N38',
+    name: 'N38-Puerta',
     price: 120,
     image: './puertasImagenes/38puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N39',
+    name: 'N39-Puerta',
     price: 120,
     image: './puertasImagenes/39puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N40',
+    name: 'N40-Puerta',
     price: 120,
     image: './puertasImagenes/40puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N41',
+    name: 'N41-Puerta',
     price: 120,
     image: './puertasImagenes/41puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta N42',
+    name: 'N42-Puerta',
     price: 120,
     image: './puertasImagenes/42puerta.jpeg',
 });
