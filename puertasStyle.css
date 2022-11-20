@@ -58,6 +58,7 @@ a:hover{
 }
 /*Main*/
 .sectionMain1{
+    justify-content: center;
     text-align: center;
     font-size: 2rem;
 }
@@ -68,7 +69,7 @@ a:hover{
 /*Cards*/
 .cards-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 21rem);
+    grid-template-columns: repeat(auto-fill, 20.9rem);
     gap: 26px;
     margin-top: 20px;
   }
