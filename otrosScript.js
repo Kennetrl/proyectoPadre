@@ -4,53 +4,48 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'Piso Flotante 1',
-    price: 120,
+    name: 'Piso Flotante',
+    price: 16,
     image: './otrosImagenes/1PisoFlotante.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 2',
-    price: 120,
+    name: 'Pérgola de aluminio con policarbonato',
+    price: 60,
     image: './otrosImagenes/1otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 3',
-    price: 120,
-    image: './otrosImagenes/2otros.jpeg',
-});
-productList.push({
-    name: 'Piso Flotante 4',
-    price: 120,
+    name: 'Pérgola con policabonato',
+    price: 55,
     image: './otrosImagenes/3otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 5',
-    price: 120,
+    name: 'Pérgola con policabonato',
+    price: 55,
     image: './otrosImagenes/4otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 6',
-    price: 120,
+    name: 'Techo con policarbonato',
+    price: 55,
     image: './otrosImagenes/5otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 7',
-    price: 120,
+    name: 'Nova losa',
+    price: 40,
     image: './otrosImagenes/6otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 8',
-    price: 120,
+    name: 'Policarbonato con hierro',
+    price: 55,
     image: './otrosImagenes/7otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 9',
-    price: 120,
+    name: 'Techo metálico tipo teja',
+    price: 45,
     image: './otrosImagenes/8otros.jpeg',
 });
 productList.push({
-    name: 'Piso Flotante 10',
-    price: 120,
+    name: 'Pérgola con policarbonato',
+    price: 60,
     image: './otrosImagenes/9otros.jpeg',
 });
 

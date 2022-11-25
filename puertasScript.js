@@ -4,218 +4,159 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'N1-Puerta',
-    price: 120,
+    name: 'N1 - Puerta con tol perforado',
+    price: 180,
     image: './puertasImagenes/1puerta.jpeg',
 });
 productList.push({
-    name: 'N2-Puerta',
-    price: 120,
+    name: 'N2 - Puerta con tol galvanizado',
+    price: 160,
     image: './puertasImagenes/2puerta.jpeg',
 });
 productList.push({
-    name: 'N3-Puerta',
-    price: 120,
+    name: 'N3 - Puerta de Garage',
+    price: 550,
     image: './puertasImagenes/3puerta.jpeg',
 });
 productList.push({
-    name: 'N4-Puerta',
-    price: 120,
+    name: 'N4 - Puerta de tol',
+    price: 160,
     image: './puertasImagenes/4puerta.jpeg',
 });
 productList.push({
-    name: 'N5-Puerta',
-    price: 120,
+    name: 'N5 - Puerta de tol',
+    price: 160,
     image: './puertasImagenes/5puerta.jpeg',
 });
 productList.push({
-    name: 'N6-Puerta',
-    price: 120,
+    name: 'N6 - Puerta corrediza de aluminio sencilla',
+    price: 220,
     image: './puertasImagenes/6puerta.jpeg',
 });
 productList.push({
-    name: 'N7-Puerta',
-    price: 120,
+    name: 'N7 - Puerta de garage con alucobond',
+    price: 550,
     image: './puertasImagenes/7puerta.jpeg',
 });
 productList.push({
-    name: 'N8-Puerta',
-    price: 120,
+    name: 'N8 - Cubre-puerta',
+    price: 180,
     image: './puertasImagenes/8puerta.jpeg',
 });
+
 productList.push({
-    name: 'N9-Puerta',
-    price: 120,
-    image: './puertasImagenes/9puerta.jpeg',
-});
-productList.push({
-    name: 'N10-Puerta',
-    price: 120,
-    image: './puertasImagenes/10puerta.jpeg',
-});
-productList.push({
-    name: 'N11-Puerta',
-    price: 120,
+    name: 'N11 - Puerta de tol',
+    price: 160,
     image: './puertasImagenes/11puerta.jpeg',
 });
 productList.push({
-    name: 'N12-Puerta',
-    price: 120,
+    name: 'N12 - Puerta batiente',
+    price: 220,
     image: './puertasImagenes/12puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta 13',
-    price: 120,
-    image: './puertasImagenes/13puerta.jpeg',
-});
-productList.push({
-    name: 'N14-Puerta',
-    price: 120,
+    name: 'N14 - Puerta de Garage',
+    price: 500,
     image: './puertasImagenes/14puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta 15',
-    price: 120,
+    name: 'N15 - Puerta mixta',
+    price: 240,
     image: './puertasImagenes/15puerta.jpeg',
 });
 productList.push({
-    name: 'Puerta 16',
-    price: 120,
-    image: './puertasImagenes/1puerta.jpeg',
-});
-productList.push({
-    name: 'Puerta1',
-    price: 120,
+    name: 'N16 - Puerta batiente de aluminio',
+    price: 180,
     image: './puertasImagenes/16puerta.jpeg',
 });
 productList.push({
-    name: 'N17-Puerta',
-    price: 120,
+    name: 'N17 - Puerta de garage',
+    price: 550,
     image: './puertasImagenes/17puerta.jpeg',
 });
 productList.push({
-    name: 'N18-Puerta',
-    price: 120,
-    image: './puertasImagenes/18puerta.jpeg',
-});
-productList.push({
-    name: 'N19-Puerta',
-    price: 120,
-    image: './puertasImagenes/19puerta.jpeg',
-});
-productList.push({
-    name: 'N20-Puerta',
-    price: 120,
-    image: './puertasImagenes/20puerta.jpeg',
-});
-productList.push({
-    name: 'N21-Puerta',
-    price: 120,
-    image: './puertasImagenes/21puerta.jpeg',
-});
-productList.push({
-    name: 'N22-Puerta',
-    price: 120,
+    name: 'N22 - Puerta de garage',
+    price: 550,
     image: './puertasImagenes/22puerta.jpeg',
 });
 productList.push({
-    name: 'N23-Puerta',
-    price: 120,
+    name: 'N23 - Puerta lanford',
+    price: 280,
     image: './puertasImagenes/23puerta.jpeg',
 });
 productList.push({
-    name: 'N24-Puerta',
-    price: 120,
-    image: './puertasImagenes/24puerta.jpeg',
-});
-productList.push({
-    name: 'N25-Puerta',
-    price: 120,
+    name: 'N25 - Puerta de tol',
+    price: 160,
     image: './puertasImagenes/25puerta.jpeg',
 });
 productList.push({
-    name: 'N26-Puerta',
-    price: 120,
-    image: './puertasImagenes/26puerta.jpeg',
-});
-productList.push({
-    name: 'N27-Puerta',
-    price: 120,
-    image: './puertasImagenes/27puerta.jpeg',
-});
-productList.push({
-    name: 'N28-Puerta',
-    price: 120,
+    name: 'N28 - Cubre-puerta',
+    price: 150,
     image: './puertasImagenes/28puerta.jpeg',
 });
 productList.push({
-    name: 'N29-Puerta',
-    price: 120,
+    name: 'N29 - Puerta de tol',
+    price: 160,
     image: './puertasImagenes/29puerta.jpeg',
 });
 productList.push({
-    name: 'N30-Puerta',
-    price: 120,
+    name: 'N30 - Puerta de tol',
+    price: 180,
     image: './puertasImagenes/30puerta.jpeg',
 });
 productList.push({
-    name: 'N31-Puerta',
-    price: 120,
+    name: 'N31 - Puerta de tol',
+    price: 180,
     image: './puertasImagenes/31puerta.jpeg',
 });
 productList.push({
-    name: 'N32-Puerta',
-    price: 120,
+    name: 'N32 - Puerta de tol',
+    price: 160,
     image: './puertasImagenes/32puerta.jpeg',
 });
 productList.push({
-    name: 'N33-Puerta',
-    price: 120,
+    name: 'N33 - Cubre-puerta',
+    price: 160,
     image: './puertasImagenes/33puerta.jpeg',
 });
 productList.push({
-    name: 'N34-Puerta',
-    price: 120,
+    name: 'N34 - Puerta de garage',
+    price: 550,
     image: './puertasImagenes/34puerta.jpeg',
 });
 productList.push({
-    name: 'N35-Puerta',
-    price: 120,
+    name: 'N35 - Puerta de garage',
+    price: 550,
     image: './puertasImagenes/35puerta.jpeg',
 });
 productList.push({
-    name: 'N36-Puerta',
-    price: 120,
+    name: 'N36 - Puerta peatonal',
+    price: 160,
     image: './puertasImagenes/36puerta.jpeg',
 });
 productList.push({
-    name: 'N37-Puerta',
-    price: 120,
+    name: 'N37 - Puerta mixta',
+    price: 240,
     image: './puertasImagenes/37puerta.jpeg',
 });
 productList.push({
-    name: 'N38-Puerta',
-    price: 120,
+    name: 'N38 - Puerta tamborada de tol',
+    price: 250,
     image: './puertasImagenes/38puerta.jpeg',
 });
 productList.push({
-    name: 'N39-Puerta',
-    price: 120,
-    image: './puertasImagenes/39puerta.jpeg',
-});
-productList.push({
-    name: 'N40-Puerta',
-    price: 120,
+    name: 'N40 - Cubre-puerta',
+    price: 150,
     image: './puertasImagenes/40puerta.jpeg',
 });
 productList.push({
-    name: 'N41-Puerta',
-    price: 120,
+    name: 'N41 - Puerta lanford',
+    price: 280,
     image: './puertasImagenes/41puerta.jpeg',
 });
 productList.push({
-    name: 'N42-Puerta',
-    price: 120,
+    name: 'N42 - Cubre-puerta',
+    price: 150,
     image: './puertasImagenes/42puerta.jpeg',
 });
 

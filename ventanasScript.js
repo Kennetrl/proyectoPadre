@@ -4,79 +4,69 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'N1-Ventana',
-    price: 120,
+    name: 'N1 - Ventana corrediza de aluminio',
+    price: 55,
     image: './ventanasImagenes/1ventana.jpeg',
 });
 productList.push({
-    name: 'N2-Ventana',
-    price: 120,
+    name: 'N2 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/2ventana.jpeg',
 });
 productList.push({
-    name: 'N3-Ventana',
-    price: 120,
+    name: 'N3 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/3ventana.jpeg',
 });
 productList.push({
-    name: 'N4-Ventana',
-    price: 120,
+    name: 'N4 - Ventana corrediza',
+    price: 55,
     image: './ventanasImagenes/4ventana.jpeg',
 });
 productList.push({
-    name: 'N5-Ventana',
-    price: 120,
+    name: 'N5 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/5ventana.jpeg',
 });
 productList.push({
-    name: 'N6-Ventana',
-    price: 120,
+    name: 'N6 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/6ventana.jpeg',
 });
 productList.push({
-    name: 'N7-Ventana',
-    price: 120,
+    name: 'N7-Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/7ventana.jpeg',
 });
 productList.push({
-    name: 'N8-Ventana',
-    price: 120,
+    name: 'N8 - Ventana corrediza',
+    price: 60,
     image: './ventanasImagenes/8ventana.jpeg',
 });
 productList.push({
-    name: 'N9-Ventana',
-    price: 120,
+    name: 'N9 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/9ventana.jpeg',
 });
 productList.push({
-    name: 'N10-Ventana',
-    price: 120,
+    name: 'N10 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/10ventana.jpeg',
 });
 productList.push({
-    name: 'N11-Ventana',
-    price: 120,
+    name: 'N11 - Cubre-ventana',
+    price: 40,
     image: './ventanasImagenes/11ventana.jpeg',
 });
 productList.push({
-    name: 'N12-Ventana',
-    price: 120,
+    name: 'N12 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/12ventana.jpeg',
 });
 productList.push({
-    name: 'N13-Ventana',
-    price: 120,
+    name: 'N13 - Cubre-ventana',
+    price: 35,
     image: './ventanasImagenes/13ventana.jpeg',
-});
-productList.push({
-    name: 'N14-Ventana',
-    price: 120,
-    image: './ventanasImagenes/14ventana.jpeg',
-});
-productList.push({
-    name: 'N15-Ventana',
-    price: 120,
-    image: './ventanasImagenes/15ventana.jpeg',
 });
 //Función para mostrar las lista
 function renderProducts(arr){

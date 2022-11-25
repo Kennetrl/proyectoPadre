@@ -64,7 +64,7 @@ a:hover{
 }
 .sectionMain2{
     margin: 1rem;
-    padding-left: 2rem;
+
 }
 /*Cards*/
 .cards-container {
@@ -72,13 +72,14 @@ a:hover{
     grid-template-columns: repeat(auto-fill, 20.9rem);
     gap: 26px;
     margin-top: 20px;
+    justify-content: center;
   }
   .product-card {
     width: 240px;
   }
   .product-card img {
     width: 240px;
-    height: 240px;
+    height: 300px;
     border-radius: 20px;
     object-fit: cover;
     transition: 300ms;

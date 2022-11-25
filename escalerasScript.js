@@ -4,118 +4,99 @@ const productList = [];
 
 //Lisa de los elementos
 productList.push({
-    name: 'N1-Escalera',
-    price: 120,
+    name: 'N1 - Escalera caracol',
+    price: 800,
     image: './escalerasImagenes/1Escalera.jpeg',
 });
 productList.push({
-    name: 'N2-Escalera',
-    price: 120,
+    name: 'N2 - Gradas metálicas con pasamanos',
+    price: 600,
     image: './escalerasImagenes/2Escalera.jpeg',
 });
 productList.push({
-    name: 'N3-Escalera',
-    price: 120,
+    name: 'N3 - Pasamano de hierro',
+    price: 35,
     image: './escalerasImagenes/3Escalera.jpeg',
 });
 productList.push({
-    name: 'N4-Escalera',
-    price: 120,
+    name: 'N4 - Pasamanos acero inox',
+    price: 110,
     image: './escalerasImagenes/4Escalera.jpeg',
 });
 productList.push({
-    name: 'N1-Pasamanos',
-    price: 120,
+    name: 'N5 - Pasamanos acero inox',
+    price: 45,
     image: './escalerasImagenes/1Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N2-Pasamanos',
-    price: 120,
+    name: 'N6 - Pasamanos acero inox',
+    price: 45,
     image: './escalerasImagenes/2Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N3-Pasamanos',
-    price: 120,
+    name: 'N7 - Pasamanos de hierro',
+    price: 40,
     image: './escalerasImagenes/3Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N4-Pasamanos',
-    price: 120,
+    name: 'N8 - Pasamanos de acero inox con vidrio templado',
+    price: 210,
     image: './escalerasImagenes/4Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N5-Pasamanos',
-    price: 120,
+    name: 'N9 - Pasamanos de hierro',
+    price: 40,
     image: './escalerasImagenes/5Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N6-Pasamanos',
-    price: 120,
+    name: 'N10 - Pasamanos de hierro',
+    price: 40,
     image: './escalerasImagenes/6Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N7-Pasamanos',
-    price: 120,
+    name: 'N11 - Pasamanos de hierro',
+    price: 40,
     image: './escalerasImagenes/7Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N8-Pasamanos',
-    price: 120,
+    name: 'N12 - Pasamanos de acero inox',
+    price: 110,
     image: './escalerasImagenes/8Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N9-Pasamanos',
-    price: 120,
+    name: 'N13 - Pasamanos de hierro',
+    price: 40,
     image: './escalerasImagenes/9Pasamanos.jpeg',
 });
+
 productList.push({
-    name: 'N1-Pasamanos0',
-    price: 120,
-    image: './escalerasImagenes/10Pasamanos.jpeg',
-});
-productList.push({
-    name: 'N1-Pasamanos1',
-    price: 120,
+    name: 'N14 - Pasamanos inox',
+    price: 110,
     image: './escalerasImagenes/11Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N1-Pasamanos2',
-    price: 120,
-    image: './escalerasImagenes/12Pasamanos.jpeg',
-});
-productList.push({
-    name: 'N1-Pasamanos3',
-    price: 120,
+    name: 'N15 - Pasamanos de hierro',
+    price: 40,
     image: './escalerasImagenes/13Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N1-Pasamanos4',
-    price: 120,
-    image: './escalerasImagenes/14Pasamanos.jpeg',
-});
-productList.push({
-    name: 'N1-Pasamanos5',
-    price: 120,
+    name: 'N16 - Pasamanos acero inox',
+    price: 110,
     image: './escalerasImagenes/15Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N1-Pasamanos6',
-    price: 120,
-    image: './escalerasImagenes/16Pasamanos.jpeg',
-});
-productList.push({
-    name: 'N1-Pasamanos7',
-    price: 120,
+    name: 'N17 - Pasamanos acero inox',
+    price: 110,
     image: './escalerasImagenes/17Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N1-Pasamanos8',
-    price: 120,
+    name: 'N18 - Pasamanos acero inox',
+    price: 110,
     image: './escalerasImagenes/18Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N1-Pasamanos9',
-    price: 120,
+    name: 'N1 - Pasamanos acero inox',
+    price: 110,
     image: './escalerasImagenes/19Pasamanos.jpeg',
 });
 
