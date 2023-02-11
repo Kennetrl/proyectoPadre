@@ -15,7 +15,7 @@ productList.push({
 });
 productList.push({
     name: 'N3 - Pasamano de hierro',
-    price: 35,
+    price: 40,
     image: './escalerasImagenes/3Escalera.jpeg',
 });
 productList.push({
@@ -95,9 +95,14 @@ productList.push({
     image: './escalerasImagenes/18Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N1 - Pasamanos acero inox',
+    name: 'N19 - Pasamanos acero inox',
     price: 110,
     image: './escalerasImagenes/19Pasamanos.jpeg',
+});
+productList.push({
+    name: 'N20 - Pasamanos acero inox',
+    price: 0,
+    image: './escalerasImagenes/20Pasamanos.jpeg',
 });
 
 

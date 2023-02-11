@@ -68,6 +68,15 @@ productList.push({
     price: 35,
     image: './ventanasImagenes/13ventana.jpeg',
 });
+productList.push({
+    name: 'N14 - Ventanas de aluminio con vidrio claro',
+    price: 0,
+    image: './ventanasImagenes/16ventana.jpeg',
+});
+
+
+
+
 //Función para mostrar las lista
 function renderProducts(arr){
     for (product of arr){
