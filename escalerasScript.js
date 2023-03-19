@@ -100,8 +100,8 @@ productList.push({
     image: './escalerasImagenes/19Pasamanos.jpeg',
 });
 productList.push({
-    name: 'N20 - Pasamanos acero inox',
-    price: 0,
+    name: 'N20 - Pasamanos hierro',
+    price: 45,
     image: './escalerasImagenes/20Pasamanos.jpeg',
 });
 

@@ -160,33 +160,23 @@ productList.push({
     image: './puertasImagenes/42puerta.jpeg',
 });
 productList.push({
-    name: 'N43 - Puerta de Vidrio',
-    price: 0,
+    name: 'N43 - Puerta de Vidrio Templado',
+    price: 480,
     image: './puertasImagenes/43puerta.jpeg',
 });
 productList.push({
     name: 'N44 - Puerta metálica peatonal tipo madera',
-    price: 0,
+    price: 160,
     image: './puertasImagenes/44puerta.jpeg',
 });
 productList.push({
-    name: 'N45 - Puerta metálica peatonal tipo madera',
-    price: 0,
-    image: './puertasImagenes/45puerta.jpeg',
-});
-productList.push({
-    name: 'N46 - Puerta metálica de garaje',
-    price: 0,
-    image: './puertasImagenes/46puerta.jpeg',
-});
-productList.push({
     name: 'N47 - Puerta metálica tamborada o blindada',
-    price: 0,
+    price: 250,
     image: './puertasImagenes/47puerta.jpeg',
 });
 productList.push({
     name: 'N48 - Puerta metálica de garaje tipo madera',
-    price: 0,
+    price: 600,
     image: './puertasImagenes/48puerta.jpeg',
 });
 

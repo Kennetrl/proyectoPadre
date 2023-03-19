@@ -48,6 +48,21 @@ productList.push({
     price: 60,
     image: './otrosImagenes/9otros.jpeg',
 });
+productList.push({
+    name: 'Cubierta de policabonato sencilla',
+    price: 50,
+    image: './otrosImagenes/10otros.jpeg',
+});
+productList.push({
+    name: 'Cubierta de policabonato corrediza',
+    price: 50,
+    image: './otrosImagenes/11otros.jpeg',
+});
+productList.push({
+    name: 'Cubierta de policabona',
+    price: 50,
+    image: './otrosImagenes/12otros.jpeg',
+});
 
 
 //Función para mostrar las lista

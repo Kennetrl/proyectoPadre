@@ -40,7 +40,7 @@ productList.push({
 });
 productList.push({
     name: 'N8 - Ventana corrediza',
-    price: 60,
+    price: 75,
     image: './ventanasImagenes/8ventana.jpeg',
 });
 productList.push({
@@ -69,8 +69,8 @@ productList.push({
     image: './ventanasImagenes/13ventana.jpeg',
 });
 productList.push({
-    name: 'N14 - Ventanas de aluminio con vidrio claro',
-    price: 0,
+    name: 'N14 - Ventana de aluminio color madera',
+    price: 75,
     image: './ventanasImagenes/16ventana.jpeg',
 });
 
