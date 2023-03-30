@@ -59,9 +59,14 @@ productList.push({
     image: './otrosImagenes/11otros.jpeg',
 });
 productList.push({
-    name: 'Cubierta de policabona',
+    name: 'Cubierta de policabonato',
     price: 50,
     image: './otrosImagenes/12otros.jpeg',
+});
+productList.push({
+    name: 'Cubierta de hierro con policarbonato corrediza',
+    price: 80,
+    image: './otrosImagenes/13otros.gif',
 });
 
 
