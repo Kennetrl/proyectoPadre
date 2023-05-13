@@ -230,6 +230,7 @@ footer{
     .sectionMain5{
     flex-direction: column;
     }
+    
     .domLineas{
         position: absolute;
         display: flex;
